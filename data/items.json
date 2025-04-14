@@ -1,0 +1,29 @@
+
+
+
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 0.99,
+        "imgUrl": "/imgs/luigi.png"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 2.99,
+        "imgUrl":"/imgs/mario.png"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "price": 5.99,
+        "imgUrl":"/imgs/peach.png"
+    },
+    {
+        "id": 4,
+        "name": "Cutlary",
+        "price": 6.99,
+        "imgUrl":"/imgs/yoshi.png"
+    }
+]
